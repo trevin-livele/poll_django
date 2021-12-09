@@ -17,3 +17,7 @@ python manage.py runserver
 ### Commands Gist
 
 #technologies used
+html
+js
+css
+python
